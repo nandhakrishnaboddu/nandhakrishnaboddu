@@ -23,7 +23,8 @@
 <hr/>
   
 ![ boddu Nandha krishna sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandhakrishnaboddu&theme=react&show_icons=true)
-
+  <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhakrishnaboddu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
   <hr/>
   
@@ -33,7 +34,10 @@
 <a href="https://codesandbox.com/nandhakrishnaboddu" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" alt="nandhakrishnaboddu" /></a>
 </p>
   
-  
+ 
+
+
+
 
 
 
