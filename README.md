@@ -31,7 +31,7 @@
 
   <p align="center">
 <a href="https://linkedin.com/in/nandhakrishna1306" target="blank"><img align="center"  src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=black"  alt="nandhakrishna1306"  /></a>
-<a href="https://codesandbox.com/nandhakrishnaboddu" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" alt="nandhakrishnaboddu" /></a>
+<a href="https://linkedin.com/in/nandhakrishna1306" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" alt="nandhakrishnaboddu" /></a>
 </p>
   
  
