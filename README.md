@@ -17,7 +17,7 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Google Analytics Basics](https://img.shields.io/badge/Google%20Analytics-0078d6.svg?style=for-the-badge&logo=visual-studio-code&) 
+![Google Analytics Basics](https://img.shields.io/badge/Google%20Analytics-0078d6.svg?style=for-the-badge&) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    
 
